@@ -1,14 +1,9 @@
 # 个人博客
 
-这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
+本人的个人博客项目，主要用来记录学习和工作中的理解和感悟。
 
 
-访问地址：[http://www.ityouknow.com/](http://www.ityouknow.com/)
+访问地址：[**戳这儿~~~**](https://zhuyoulin123.github.io)
 
 
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
-
-
-## 我的微信公众号
-
-![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
